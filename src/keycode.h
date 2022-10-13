@@ -147,7 +147,7 @@ enum _MMKeyCode {
 	K_CONTROL = XK_Control_L,
 	K_SHIFT = XK_Shift_L,
 	K_RIGHTSHIFT = XK_Shift_R,
-	K_CAPSLOCK = XK_Shift_Lock,
+	K_CAPSLOCK = XK_Caps_Lock,
 	K_SPACE = XK_space,
 	K_INSERT = XK_Insert,
 	K_PRINTSCREEN = XK_Print,
